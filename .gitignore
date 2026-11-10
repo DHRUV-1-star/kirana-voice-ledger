@@ -1,0 +1,6 @@
+ledger.json
+total_reply.wav
+*.wav
+.env
+__pycache__/
+.venv/
